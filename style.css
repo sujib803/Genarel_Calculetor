@@ -1,0 +1,65 @@
+* {
+    margin: 0px;
+    background-image: url(backgraund.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.title{
+
+text-align: center;font-weight: bold;font-size: 50px;padding: 10px;letter-spacing: 10px;font-style: italic;}
+.continar{
+
+background: #bbbbbb;width: 245px;margin: 30px 0px 0px 530px;padding: 11px;border: 10px solid black;border-radius: 20px;}
+.continar input{
+    
+}
+.display{
+
+background: wheat;
+
+margin-bottom: 2px;
+
+padding: 10px;
+
+padding-right: 12px;
+
+padding-left: 5px;
+
+font-size: 40px;
+
+font-weight: 50;
+
+width: 225px;
+
+text-align: right;
+
+border: none;
+
+border-radius: 10px;
+
+letter-spacing: -2px;
+
+font-family: math;
+
+}
+.button1{
+
+    background: gray;
+    width: 70px;margin: 0px 0px 15px 100px;}
+.button2{
+    background: gray;
+width: 70px;margin-bottom: 15px;}
+.button{
+background: black;
+color: wheat;
+margin: 4px;padding: 10px;width: 50px;font-size: 15px;}
+.answer{
+background:red;
+color:black;
+width: 112px;margin: 4px;padding: 10px;font-size: 15px;font-weight: bold;
+transition: 0.5s;
+}
+.answer:hover{
+    background: yellow;
+    color: red;
+}
